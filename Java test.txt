@@ -1,0 +1,74 @@
+                                 TEST
+1)	JAVA: java is a high level object  oriented programming language 
+          It is platform independent
+          It is open source and free to use.
+		  the command java used to run the code
+		  
+    javac: javac is a compiler 
+           used to convert .java file to .class file
+           it coverts source code to byte code.
+          the command javac used to compile the source code
+		  
+2)   JVM : Java Vertual machine
+       The main tasks of jvm are:
+       * It loads the byte code 
+       * It verifies the byte code 
+       * It execute the byte code.
+    It also provides run time environment to the byte code.
+
+     JRE: Java Run time Environment	
+	     JRE contains JVM + Set of libraries
+		 it is minimum required to execute the java code or byte code.
+	
+     JDK : Java Development kit
+          it consists of JRE + Development tools like docs ,javac etc....
+
+3)		Array limitations
+      array is use to store multiple data/ values in a single variable
+      It reduce the more refVariable
+	  We can also store similar data in a one variable
+
+5).java file : .java file is source code 
+               it is the actual code what programmer done.
+  .class file : .class file is byte code 
+               It exists only when the .java file get compiled.
+
+7)Java:	java is a high level object  oriented programming language 
+          It is platform independent
+          It is open source and free to use.
+
+9) Variable : variable is a container which is used to store the data , and can be used in further program.
+     there are 4 types of variable
+     * static variable : static variable are declared out side the main method using a word static.
+	 
+     * instance variable : variables declared inside the class and out side the body of method
+	 
+     * local variable  : local variables are declared inside the main method 
+	 
+     * parameter variable: are declared inside the paranthesis of the method.	 
+	 
+10)keywords
+    extends , new ,abstract,return,break, default,static , void , class,private	 
+	 
+	 
+11) class level variable :
+    variables are initialised inside the class 
+
+12) DataTypes:
+
+     the dataTypes used to represents the type of data to be stored in a variable.
+    types of data type:
+    * primitive dataType : primitive dataTypes are pre defined and they have a value which is defined
+                          The starting letter should be in lowercase	
+    ex: int , byte, char , float, boolean ,double, long ,
+
+     * non primitive dataTypes: non primitive dataypes are defined by programmer	and values are  not defined
+	                            the starting letter should be in upperCase
+	 ex: String , Array, and all the class names what programmer write,
+	 
+14) Java features:
+    * It is platform independent
+    * It is open source and free to use.
+	* It is secure and powerfull 
+	* It is High level programming language
+	
